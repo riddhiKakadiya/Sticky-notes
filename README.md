@@ -1,1 +1,2 @@
-HTML, CSS, Javascript And Angular 5
+HTML, CSS, Javascript, Angular 5 & JSON
+
